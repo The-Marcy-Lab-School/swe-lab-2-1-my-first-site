@@ -1,5 +1,5 @@
-# 2.0.2 Lab - Your First Website!
-- [2.0.2 Lab - Your First Website!](#202-lab---your-first-website)
+# Your First Website!
+- [Your First Website!](#your-first-website)
 - [Objectives](#objectives)
 - [Visualizing the project](#visualizing-the-project)
   - [Mockups](#mockups)
